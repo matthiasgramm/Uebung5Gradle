@@ -33,7 +33,7 @@ sourceSets
 {
 	main{
 		java{
-			srcDir 'src/main/minigame'
+			srcDir 'src/main/java'
 	
 			}
 	}
